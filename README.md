@@ -1,4 +1,4 @@
-# vx
+# vx(微信客户端flutter版本)
 
 A new Flutter application.
 
